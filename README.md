@@ -8,8 +8,10 @@
 
 ## 逻辑图
 口袋助理跳转第三方app逻辑示意图：  
+  
 ![image](https://github.com/tunsuy/ThirdPlatInteraction/blob/master/%E9%80%BB%E8%BE%91%E5%9B%BE/toThirdApp.jpg)  
 第三方跳转口袋助理逻辑示意图：  
+  
 ![image](https://github.com/tunsuy/ThirdPlatInteraction/blob/master/%E9%80%BB%E8%BE%91%E5%9B%BE/fromThirdApp.jpg)  
 
 ## 实现
